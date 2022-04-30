@@ -25,7 +25,7 @@ I design and develop projects with Spring framework in Kotlin & Java programming
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
   
 <img src="https://www.latindevelopers.com/wp-content/uploads/2017/12/sql_icon.png" alt="sql" width="40" height="40"/>
-<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F51814c87e4b0c1fda9c1fc50%2Ft%2F5212587fe4b064b5b5f01aa6%2F1376934016256%2FOAuth2.png&f=1&nofb=1" alt="jwt" width="40" height="40"/>
+<img src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fstatic1.squarespace.com%2Fstatic%2F51814c87e4b0c1fda9c1fc50%2Ft%2F5212587fe4b064b5b5f01aa6%2F1376934016256%2FOAuth2.png&f=1&nofb=1" alt="oauth2" width="40" height="40"/>
   
 <img src="https://plugins.miniorange.com/wp-content/uploads/2019/08/Keycloak-logo.png" alt="Keycloak" width="40" height="40"/>
 <img src="https://werkraum.net/fileadmin/news_import/jwt_pic_logo.svg.png" alt="jwt" width="40" height="40"/>
@@ -34,11 +34,11 @@ I design and develop projects with Spring framework in Kotlin & Java programming
 <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="Intellij" width="40" height="40"/>  
 <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="Postman" width="40" height="40"/>   
 
-<img src="https://www.metacodes.pro/images/uml-logo.png" alt="Postman" width="40" height="40"/>
+<img src="https://www.metacodes.pro/images/uml-logo.png" alt="UML" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
   
 <img src="https://vmssoftware.com/images/intro/product/apache-maven.png" alt="maven" width="70" height="30"/>  
  
-<img src="https://junit.org/junit4/images/junit5-banner.png" alt="maven" width="70" height="30"/>   
+<img src="https://junit.org/junit4/images/junit5-banner.png" alt="junit" width="70" height="30"/>   
  
   
