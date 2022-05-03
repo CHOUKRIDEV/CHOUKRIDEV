@@ -31,6 +31,7 @@ I design and develop projects with Spring framework in Kotlin & Java programming
 <img src="https://werkraum.net/fileadmin/news_import/jwt_pic_logo.svg.png" alt="jwt" width="40" height="40"/>
 <img src="https://seeklogo.com/images/S/swagger-logo-A49F73BAF4-seeklogo.com.png" alt="Swagger" width="40" height="40"/>
 <img src="https://logos-download.com/wp-content/uploads/2016/09/Docker_logo.png" alt="Docker" width="40" height="40"/>  
+<img src="https://cdn.freebiesupply.com/logos/large/2x/graphql-logo-png-transparent.png" alt="GraphQL" width="40" height="40"/>   
 <img src="https://cdn.freebiesupply.com/logos/large/2x/intellij-idea-1-logo-png-transparent.png" alt="Intellij" width="40" height="40"/>  
 <img src="https://blog.scottlogic.com/mmcalroy/assets/postmanLogo.png" alt="Postman" width="40" height="40"/>   
 
